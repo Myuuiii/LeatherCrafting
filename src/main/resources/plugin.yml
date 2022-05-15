@@ -1,0 +1,6 @@
+name: LeatherCrafting
+version: '${project.version}'
+main: moe.myuuiii.leathercrafting.Plugin
+api-version: 1.18
+authors: [ Myuuiii ]
+description: Allows you to craft leather from rotten flesh
